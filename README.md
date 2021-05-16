@@ -29,13 +29,22 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+.forEach will go through each element of the array, allowing you to do as you please with the elements
+
+.map will also go through each element of the array, but is applying a given function to each element.
+
+
 2. Explain the difference between a callback and a higher order function.
+
 
 3. Can you explain what a closure is and how you used it in the counter function? 
 
+
 4. Describe the four principles of the 'this' keyword.
 
+
 5. Why do we need super() in an extended class?
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
